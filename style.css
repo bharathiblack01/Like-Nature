@@ -28,6 +28,12 @@ ol{
 .header{
     color: rgb(253, 249, 249);
 }
+
+.logo{
+    width: 60px;
+    height: 50px;
+    margin-right: 20px;
+}
 h2{
     margin-top: 20px;
 }
