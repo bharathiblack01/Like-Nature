@@ -1,0 +1,150 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main{
+    background-color: rgb(0, 0, 0);
+    color: white;
+    padding: 30px;
+}
+ol,li,h1{
+    display:inline;
+    padding: 20px;
+}
+h1 span{
+    color: yellow;
+    margin-left: 10px;
+}
+a{
+    color:white;
+    text-decoration: none;
+}
+li a:hover{
+    color: red;
+}
+ol{
+    margin-left:46% ;
+}
+.header{
+    color: rgb(253, 249, 249);
+}
+h2{
+    margin-top: 20px;
+}
+h4{
+    margin-top: 16px;
+}
+.header{
+ margin-top:250px;
+ padding-left:5%;
+ width: 600px;
+}
+.one{
+    margin-top: 40px;
+}
+botton{
+    background-color:orangered;
+    color:white;
+    border-top-left-radius:20px ;
+    border-bottom-right-radius: 20px;
+    margin: 30px;
+}
+.item{
+    color: white;
+    padding: 40px;
+}
+.item1 img{
+    width: 300px;
+    height: 200px;
+    float: left;
+    border-radius: 30px;
+    margin-right: 40px;
+}
+.item1{
+    color: white;
+    margin-right: 40px;
+}
+.item2 img{
+    width: 300px;
+    height: 200px;
+    float: right;
+    border-radius: 30px;
+}   
+ .item2{ 
+    color: white;
+    margin-left: 40px;
+    padding-top: 60px;
+}
+.item3 img{
+    width: 300px;
+    height: 200px;
+    float: left;
+    border-radius: 30px;
+    margin-right: 40px;
+}
+.item3{
+    color: rgb(247, 246, 246);
+  text-align: left;
+  -ms-text-overflow: initial;
+  margin-right: 40px;
+}
+.item1 img:hover{
+   cursor: pointer;
+   
+  
+}
+.service{
+    background-color:rgb(0, 0, 0);
+    width: 300px;
+    height: 200px;
+    color: rgb(255, 255, 255);
+    border-top-left-radius:50px ;
+    border-bottom-right-radius: 50px;
+    float: left;
+    display: inline;
+    margin-right: 40px;
+    margin-left: 30%;
+    margin-top: 30px;
+    margin-top: 30px;
+  
+}
+.contact{
+    background-color:rgb(0, 0, 0);
+    width: 300px;
+    height: 200px;
+    color: rgb(240, 240, 240);
+    border-top-left-radius:50px ;
+    border-bottom-right-radius: 50px;
+    float: left;
+    display: inline;
+    margin-right: 40px;
+    margin-top: 30px;
+    
+
+
+}
+.follow{
+    background-color:rgb(0, 0, 0);
+    width: 300px;
+    height: 200px;
+    color: rgb(241, 241, 241);
+    border-top-left-radius:50px ;
+    border-bottom-right-radius: 50px;
+    float: left;
+    display: inline;
+    margin-right: 40px;
+    margin-left: 30%;
+    margin-top: 30px;
+    
+}
+.location{
+    background-color:rgb(0, 0, 0);
+    width: 300px;
+    height: 200px;
+    color: rgb(244, 244, 244);
+    border-top-left-radius:50px ;
+    border-bottom-right-radius: 50px;
+    float: left;
+    display: inline;
+    margin-top: 30px;
+}
